@@ -1,0 +1,2 @@
+# LI-IMX477-MIPI-140H
+LI-IMX477-MIPI-140H Driver on Xavier
